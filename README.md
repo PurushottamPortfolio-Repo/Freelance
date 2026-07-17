@@ -8,4 +8,4 @@ It includes : budgets' and project's timelines
 ## The categorial development budget is present inside ***Budget.md***.
 ## The working flow and time line is present inside ***Workflow.md***
 
-> Note : For any query, connect.
+> Note : Visit after analysis.
