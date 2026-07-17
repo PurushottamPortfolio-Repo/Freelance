@@ -1,3 +1,9 @@
+> **Prepared By:** Purushottam Kumar Singh | Freelancer  
+> **Portfolio :** https://buildwithpuru-pk.vercel.app/
+
+> **Technology Stack:** React.js • Next.js • Django • Firebase • MongoDB • MySQL ;
+> **CMS Solutions:** WordPress (Elementor), Shopify, Wix | [ Also, with any suggested stack ]
+
 ````md
 # Production Grade Company Portfolio Website Workflow
 ### Tech Stack

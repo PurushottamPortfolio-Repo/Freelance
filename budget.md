@@ -1,7 +1,7 @@
 # Website Development Proposal
 ### Pricing, Packages & Service Terms (2026)
 
-> **Prepared By:** Purushottam Kumar Singh / Freelancer  
+> **Prepared By:** Purushottam Kumar Singh | Freelancer  
 > **Portfolio :** https://buildwithpuru-pk.vercel.app/
 
 > **Technology Stack:** React.js • Next.js • Django • Firebase • MongoDB • MySQL ;
